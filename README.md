@@ -15,3 +15,6 @@ The following are some of the tools that we shall be using in collaborative effo
 Other optional tools based on the system type been used wither Linux or Windows
 
 * [CMDer](https://www.cmder.com)
+
+### Contributors
+[Christian Emenike "eChris"](http://www.ccemenike.me) | [Twitter](https://www.twitter.com/ccemenike)
