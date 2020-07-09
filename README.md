@@ -33,5 +33,6 @@ Use the template above to include your own content
 
 ### Contributors
 
-(FOLLOW THIS FORMAT AND PLACE YOUR OWN, YOUR FACEBOOK LINK OR PERSONALLINK CAN BE INCLUDED)
+FOLLOW THIS FORMAT AND PLACE YOUR OWN, YOUR FACEBOOK LINK OR PERSONALLINK CAN BE INCLUDED
+----------------
 [GDG Monrovia] (https://gdgmonrovia.com) | [Twitter](https://www.twitter.com/gdgdmonrovia)
