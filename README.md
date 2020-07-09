@@ -27,12 +27,11 @@ This section will be used to get to know more about your area of interest. For e
 * Cybersecurity
 * Mobile Development with Flutter
 
+#### Jallah Sumbo
+
+* Fullstack Development
+* DevOps/Cloud Computing
+* Data Science
+* Mobile Development with React Native
+
 Use the template above to include your own content
-
-------------------------------------
-
-### Contributors
-
-FOLLOW THIS FORMAT AND PLACE YOUR OWN, YOUR FACEBOOK LINK OR PERSONALLINK CAN BE INCLUDED
-----------------
-[GDG Monrovia] (https://gdgmonrovia.com) | [Twitter](https://www.twitter.com/gdgdmonrovia)
