@@ -25,6 +25,15 @@ This section will be used to get to know more about your area of interest. For e
 * Cybersecurity
 * Mobile Development with Flutter
 
+-----------------------------------------------------
+
+#### JAMES KOLLEH
+* DevOps/Cloud Computing 
+* Mobile Development with Flutter
+* Cybersecurity
+* Web Development
+----------------------------------------------------------
+
 Use the template above to include your own content
 
 ------------------------------------
@@ -32,14 +41,6 @@ Use the template above to include your own content
 ### Contributors
 [Christian Emenike "eChris"](http://www.ccemenike.me) | [Twitter](https://www.twitter.com/ccemenike)
 
------------------------------------------------------
-
-#### JAMES KOLLEH 
-* Mobile Development with Flutter
-* DevOps/Cloud Computing
-* Cybersecurity
-* Web Development
-
- James Kolleh[Twitter](https://twitter.com/kolleh_james)
+ (**James Kolleh**)[Twitter](https://twitter.com/kolleh_james)
 
 
