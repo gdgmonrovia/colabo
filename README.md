@@ -19,7 +19,9 @@ Other optional tools based on the system type been used wither Linux or Windows
 -----------------------------------
 ### INSERT WHAT SKILLS YOU WANT TO OBTAIN
 This section will be used to get to know more about your area of interest. For example:
+
 #### CHRISTIAN EMENIKE
+
 * Web Development
 * DevOps/Cloud Computing
 * Cybersecurity
@@ -39,10 +41,5 @@ This section will be used to get to know more about your area of interest. For e
 Use the template above to include your own content
 
 ------------------------------------
-
-### Contributors
-[Christian Emenike "eChris"](http://www.ccemenike.me) | [Twitter](https://www.twitter.com/ccemenike)
-
-
 
 
