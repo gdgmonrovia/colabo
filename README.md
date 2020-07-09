@@ -32,11 +32,14 @@ Use the template above to include your own content
 ### Contributors
 [Christian Emenike "eChris"](http://www.ccemenike.me) | [Twitter](https://www.twitter.com/ccemenike)
 
-[James Kolleh][Twitter](https://twitter.com/kolleh_james)
+-----------------------------------------------------
 
-#### JAMES KOLLEH
+#### JAMES KOLLEH 
 * Mobile Development with Flutter
 * DevOps/Cloud Computing
 * Cybersecurity
 * Web Development
+
+ James Kolleh[Twitter](https://twitter.com/kolleh_james)
+
 
