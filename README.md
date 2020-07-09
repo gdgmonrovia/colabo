@@ -32,6 +32,8 @@ This section will be used to get to know more about your area of interest. For e
 * Mobile Development with Flutter
 * Cybersecurity
 * Web Development
+
+ **James Kolleh**|[Twitter](https://twitter.com/kolleh_james)
 ----------------------------------------------------------
 
 Use the template above to include your own content
@@ -41,6 +43,6 @@ Use the template above to include your own content
 ### Contributors
 [Christian Emenike "eChris"](http://www.ccemenike.me) | [Twitter](https://www.twitter.com/ccemenike)
 
- **James Kolleh**|[Twitter](https://twitter.com/kolleh_james)
+
 
 
