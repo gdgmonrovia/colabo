@@ -34,4 +34,4 @@ Use the template above to include your own content
 ### Contributors
 
 (FOLLOW THIS FORMAT AND PLACE YOUR OWN, YOUR FACEBOOK LINK OR PERSONALLINK CAN BE INCLUDED)
-[Christian Emenike "eChris"](http://www.ccemenike.me) | [Twitter](https://www.twitter.com/ccemenike)
+[GDG Monrovia] (https://gdgmonrovia.com) | [Twitter](https://www.twitter.com/gdgdmonrovia)
