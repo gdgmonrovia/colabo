@@ -34,4 +34,12 @@ This section will be used to get to know more about your area of interest. For e
 * Data Science
 * Mobile Development with React Native
 
+#### JAMES KOLLEH
+
+* DevOps/Cloud Computing 
+* Mobile Development with Flutter
+* Cybersecurity
+* Web Development
+--------------------------------------
 Use the template above to include your own content
+
