@@ -34,4 +34,12 @@ This section will be used to get to know more about your area of interest. For e
 * Data Science
 * Mobile Development with React Native
 
+#### Julius Aries Kanneh, Jr
+
+* Fullstack Software Development
+* Java Programming Language
+* DevOps/Cloud Computing
+* Artificial Intelligence and Machine Learning
+* Cyber Security
+
 Use the template above to include your own content
